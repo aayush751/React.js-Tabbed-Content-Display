@@ -46,7 +46,8 @@ To run this project, you'll need to have Node.js and npm (or Yarn) installed on 
    npm install
    # or
    yarn install
-###Running the Application
+   
+## Running the Application
 
 ```bash
 npm start
